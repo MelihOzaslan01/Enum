@@ -1,0 +1,15 @@
+D:\pratikler\Enum\Enum\bin\Debug\net6.0\Enum.exe
+D:\pratikler\Enum\Enum\bin\Debug\net6.0\Enum.deps.json
+D:\pratikler\Enum\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+D:\pratikler\Enum\Enum\bin\Debug\net6.0\Enum.dll
+D:\pratikler\Enum\Enum\bin\Debug\net6.0\ref\Enum.dll
+D:\pratikler\Enum\Enum\bin\Debug\net6.0\Enum.pdb
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.dll
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\ref\Enum.dll
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.pdb
+D:\pratikler\Enum\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
